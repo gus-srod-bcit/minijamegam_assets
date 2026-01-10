@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: dab8152d3892e2a448c4dec11a627e5c
+guid: 07138a4c25feac14f9218c7508b06558
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7739693662254567993
-    second: catching_person_0
-  - first:
-      213: 5203640066013484963
-    second: catching_person_1
+      213: -4666527692916070597
+    second: cursor 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: catching_person_0
+      name: cursor 1_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 12
-        width: 244
-        height: 194
+        x: 50
+        y: 6
+        width: 156
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7cd69feee95179490800000000000000
-      internalID: -7739693662254567993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: catching_person_1
-      rect:
-        serializedVersion: 2
-        x: 311
-        y: 12
-        width: 168
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a759b9e11b073840800000000000000
-      internalID: 5203640066013484963
+      spriteID: b37e631a9c92d3fb0800000000000000
+      internalID: -4666527692916070597
       vertices: []
       indices: 
       edges: []
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      catching_person_0: -7739693662254567993
-      catching_person_1: 5203640066013484963
+      cursor 1_0: -4666527692916070597
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
